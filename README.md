@@ -1,4 +1,4 @@
-# minigpt4-cpp
+# minigpt4-cpp (GPU part is under development)
 
 <a href='https://huggingface.co/spaces/maknee/minigpt4.cpp'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'>
 [![Quickstart in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maknee/minigpt4.cpp/blob/master/minigpt4/colab_webui.ipynb)
@@ -192,3 +192,7 @@ To create a public link, set `share=True` in `launch()`.
 ```
 
 Go to `http://127.0.0.1:7860` in your browser and you should be able to interact with the webui.
+
+
+## Aknowledgement
+Thanks to [Maknee](https://github.com/Maknee) for providing pre-quantized weights and great job of implementation.
