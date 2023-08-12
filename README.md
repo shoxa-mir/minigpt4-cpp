@@ -32,7 +32,7 @@ cd minigpt4.cpp
 
 ##### Windows / Linux / MacOS
 
-Go to [Releases](https://github.com/Maknee/minigpt4.cpp/releases) and extract `minigpt4` library file into the repository directory.
+Go to [Releases](https://github.com/shoxa-mir/minigpt4-cpp/releases) and extract `minigpt4` library file into the repository directory.
 
 #### Option 2: Build library manually
 
